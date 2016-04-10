@@ -1,6 +1,6 @@
-# AfriLeaks
+# afriLEAKS
 
-This project is a fork of [Publeaks](https://github.com/Publeaks/Publeaks).
+This project is a fork of [Publeaks](https://github.com/Publeaks/Publeaks) and is accessible [here](https://secure.afrileaks.org/).
 
 The project is internationalized in multiple languages thanks to [Transifex](https://www.transifex.com/projects/p/afrileaks/).
 - https://www.transifex.com/projects/p/afrileaks/
